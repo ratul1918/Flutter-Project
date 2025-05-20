@@ -14,14 +14,6 @@ A simple and user-friendly Flutter application to calculate CGPA (Cumulative Gra
 
 ---
 
-## 📱 Screenshots
-
-> *(Add screenshots here by placing images in the project or linking from external sources)*  
-> Example:  
-> ![Home Screen](screenshots/home.png)
-
----
-
 ## 🛠️ Technologies Used
 
 - **Flutter** 💙 (Dart SDK)
@@ -34,5 +26,5 @@ A simple and user-friendly Flutter application to calculate CGPA (Cumulative Gra
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/cgpa-calculator.git
+   git clone https://github.com/ratul1918/cgpa-calculator.git
    cd cgpa-calculator
