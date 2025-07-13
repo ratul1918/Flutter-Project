@@ -1,4 +1,4 @@
-# 📊 CGPA Calculator - Flutter App
+# 📊 CGPA Calculator - Flutter App..
 
 A simple and user-friendly Flutter application to calculate CGPA (Cumulative Grade Point Average) for students. This app supports regular and retake courses and provides updated CGPA instantly based on course inputs.
 
