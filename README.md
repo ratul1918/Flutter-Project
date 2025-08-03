@@ -22,7 +22,7 @@ A simple and user-friendly Flutter application to calculate CGPA (Cumulative Gra
 
 ---
 
-## 📦 Installation
+## 📦 Installation:
 
 1. **Clone the repository**
    ```bash
