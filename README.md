@@ -4,7 +4,7 @@ A simple and user-friendly Flutter application to calculate CGPA (Cumulative Gra
 
 ---
 
-## 🚀 Features
+## 🚀 Features:
 
 - Add regular and retake courses
 - Input course credit and grade point
