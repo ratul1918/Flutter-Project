@@ -14,7 +14,7 @@ A simple and user-friendly Flutter application to calculate CGPA (Cumulative Gra
 
 ---
 
-## 🛠️ Technologies Used:
+## 🛠️ Technologies Used: 
 
 - **Flutter** 💙 (Dart SDK)
 - Material Design components
