@@ -5,7 +5,7 @@ void main() {
   runApp(CGPACalculatorApp());
 }
 
-class CGPACalculatorApp extends StatelessWidget {
+class CGPACalculatorApp extends StatelessWidget { 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
