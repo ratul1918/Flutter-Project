@@ -11,7 +11,7 @@ A simple and user-friendly Flutter application to calculate CGPA (Cumulative Gra
 - Automatically calculate updated CGPA
 - Reset all inputs to start fresh
 - Simple, responsive UI using Flutter
-
+ 
 ---
 
 ## 🛠️ Technologies Used: 
