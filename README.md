@@ -67,7 +67,7 @@ The University CGPA Calculator is a mobile application built with Flutter that s
 
 ## Project Structure
 
-\`\`\`
+```
 University-CGPA-Calculator/
 ├── lib/
 │   ├── main.dart                         # Main application entry point
@@ -99,7 +99,7 @@ University-CGPA-Calculator/
 ├── pubspec.yaml                        # Project dependencies and metadata
 ├── analysis_options.yaml               # Dart analysis configuration
 └── README.md                           # Project documentation
-\`\`\`
+```
 
 ---
 
@@ -116,46 +116,46 @@ University-CGPA-Calculator/
 ### Installation Steps
 
 1. Clone the repository
-   \`\`\`bash
+   ```bash
    git clone https://github.com/ratul1918/Flutter-Project.git
    cd University-CGPA-Calculator
-   \`\`\`
+   ```
 
 2. Install dependencies
-   \`\`\`bash
+   ```bash
    flutter pub get
-   \`\`\`
+   ```
 
 3. Run the application
-   \`\`\`bash
+   ```bash
    flutter run
-   \`\`\`
+   ```
 
 4. Build for specific platform
-   \`\`\`bash
+   ```bash
    # For Android
    flutter run --debug
    
    # For iOS (macOS only)
    flutter run -d ios
-   \`\`\`
+   ```
 
 ### Build for Release
 
 Build Android Release APK:
-\`\`\`bash
+```bash
 flutter build apk --release
-\`\`\`
+```
 
 Build Android App Bundle:
-\`\`\`bash
+```bash
 flutter build appbundle --release
-\`\`\`
+```
 
 Build iOS Release App:
-\`\`\`bash
+```bash
 flutter build ios --release
-\`\`\`
+```
 
 ---
 
@@ -191,14 +191,14 @@ flutter build ios --release
 - Input fields with proper validation and error messages
 
 #### 5. Calculation Logic
-\`\`\`
+```
 CGPA = (Sum of (Grade Point x Credit Hours)) / (Sum of Credit Hours)
 
 For Retakes:
 - New grade replaces the old grade
 - Original credit hours are typically used
 - Only new grade contributes to CGPA calculation
-\`\`\`
+```
 
 ---
 
@@ -278,17 +278,17 @@ We welcome contributions from developers and students. Here's how to contribute:
 
 1. Fork the repository on GitHub
 2. Create a feature branch for your changes
-   \`\`\`bash
+   ```bash
    git checkout -b feature/your-feature-name
-   \`\`\`
+   ```
 3. Make your changes and commit them
-   \`\`\`bash
+   ```bash
    git commit -m "Add your feature description"
-   \`\`\`
+   ```
 4. Push to your fork
-   \`\`\`bash
+   ```bash
    git push origin feature/your-feature-name
-   \`\`\`
+   ```
 5. Create a Pull Request with detailed description
 6. Wait for code review and feedback
 
