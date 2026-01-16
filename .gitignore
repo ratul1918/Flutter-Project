@@ -1,0 +1,132 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+lib/generated_plugin_registrant.dart
+
+# iOS/macOS
+ios/.symlinks/
+ios/.generated.xcode_config
+ios/Flutter/Flutter.podspec
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.xcframework
+ios/Flutter/generated.xcconfig
+ios/Pods/
+ios/Podfile.lock
+ios/.symlinks/
+.DS_Store
+**/.DS_Store
+macos/.symlinks/
+macos/Flutter/Flutter.podspec
+macos/Flutter/Flutter.framework
+macos/Flutter/generated.xcconfig
+macos/Pods/
+macos/Podfile.lock
+
+# Android
+android/.gradle
+android/.gradle/
+android/app/debug
+android/app/profile
+android/app/release
+android/.idea/
+android/local.properties
+android/gradle.properties
+android/*.gradle
+android/**/*.gradle
+android/**/local.properties
+android/app/build.gradle.kts.bak
+.gradle/
+
+# Miscellaneous
+*.class
+*.lock
+*.log
+*.swp
+*~
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# VS Code
+.vscode/
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json
+
+# IntelliJ
+*.iml
+*.iws
+*.ipr
+out/
+
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+
+# Xcode
+xcuserdata/
+*.xcworkspace/xcuserdata/
+DerivedData/
+*.pbxuser
+*.perspective
+*.perspectivev3
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Generated files
+gen/
+GeneratedPluginRegistrant.java
+GeneratedPluginRegistrant.h
+GeneratedPluginRegistrant.m
+GeneratedPluginRegistrant.swift
+
+# Secrets
+secrets.json
+.keys
+*.pem
+*.p12
+*.p8
+
+# Build outputs
+/build/
+/dist/
+*.apk
+*.aab
+*.ipa
+*.app
+
+# Test coverage
+coverage/
+lcov.info
+
+# Dependency files that shouldn't be committed
+pubspec.lock
+
+# Platform specific files
+.packages
+.dart_tool/
